@@ -1,10 +1,10 @@
 API_ID=23522122
 API_HASH=0395081d7beef5cba762ce6aee70c41f
 BOT_TOKEN=5625079653:AAEU1PCAhOYBJouVwZKtNKBpcnEwwEkM8YQ
-MONGO_DB_URL=mongodb+srv://Xdmr:<Ankityadav7>@cluster0.lzfdj8l.mongodb.net/?retryWrites=true&w=majority
+MONGO_DB_URL=mongodb+srv://Xdmr:Ankityadav7@cluster0.lzfdj8l.mongodb.net/?retryWrites=true&w=majority
 OWNER_ID=5512007480
 DURATION_LIMIT=1200
-LOG_GROUP_ID=--1001897008239
+LOG_GROUP_ID=-1001897008239
 MUSIC_BOT_NAME=ANKIT PLAYER
 STRING_SESSION=AQB9caW9r2VcjCr5Fgmu5i_rJexjJDVPq7mY4P0j8e-9U5R42gxoSbVGJczverEw__X81fBN6YcTMtYlxKsgcaupTXN7RDdVxBiwblHwJmFwQe_dM91dZDpaJtr3xxVSwkQ2SkInvHT3AtA9dTkm3-VGzBctqGwezsrrt4GZWYkgtZzgRJdR_UUqQ23_M7mTA0EEgVcl-sQa8vNwi_jbRRLBZmp-ZKEZ-pU1hqo7jsM04tdPjWVyO6rUbRvVgvjVE6-Z854KEjzCiOlliU00i5xYxCrv_vAw5Fi8OU4_Z1npOhXgktVaLYY6vLMayMlx927FhGaNZ-1awqRIhXflJT1UAAAAAVYSTcoA
 SUPPORT_CHANNEL=https://t.me/ai_music
